@@ -3,5 +3,7 @@ defaults:
   install-options: "--no-ri --no-rdoc"
   
 gems:
+- name: rails
+  version: '= 2.0.2'
 - name: mislav-will_paginate
   version: '= 2.3.2'
