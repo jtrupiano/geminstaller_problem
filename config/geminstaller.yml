@@ -1,0 +1,7 @@
+---
+defaults:
+  install-options: "--no-ri --no-rdoc"
+  
+gems:
+- name: mislav-will_paginate
+  version: '= 2.3.2'
